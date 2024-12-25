@@ -1,0 +1,8 @@
+gmake[2]: *** [CMakeFiles/teleop.dir/build.make:76: CMakeFiles/teleop.dir/src/teleop.cpp.o] Interrupt
+gmake[2]: *** [deps/crazyflie_tools/crazyflie_cpp/crazyflie-link-cpp/CMakeFiles/crazyflieLinkCpp.dir/build.make:160: deps/crazyflie_tools/crazyflie_cpp/crazyflie-link-cpp/CMakeFiles/crazyflieLinkCpp.dir/src/CrazyflieUSBThread.cpp.o] Interrupt
+gmake[2]: *** [deps/crazyflie_tools/crazyflie_cpp/crazyflie-link-cpp/CMakeFiles/crazyflieLinkCpp.dir/build.make:90: deps/crazyflie_tools/crazyflie_cpp/crazyflie-link-cpp/CMakeFiles/crazyflieLinkCpp.dir/src/Connection.cpp.o] Interrupt
+gmake[2]: *** [deps/crazyflie_tools/crazyflie_cpp/crazyflie-link-cpp/CMakeFiles/crazyflieLinkCpp.dir/build.make:132: deps/crazyflie_tools/crazyflie_cpp/crazyflie-link-cpp/CMakeFiles/crazyflieLinkCpp.dir/src/CrazyradioThread.cpp.o] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:210: CMakeFiles/teleop.dir/all] Interrupt
+gmake[2]: *** [deps/crazyflie_tools/crazyflie_cpp/crazyflie-link-cpp/CMakeFiles/crazyflieLinkCpp.dir/build.make:76: deps/crazyflie_tools/crazyflie_cpp/crazyflie-link-cpp/CMakeFiles/crazyflieLinkCpp.dir/src/USBManager.cpp.o] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:613: deps/crazyflie_tools/crazyflie_cpp/crazyflie-link-cpp/CMakeFiles/crazyflieLinkCpp.dir/all] Interrupt
+gmake: *** [Makefile:146: all] Interrupt

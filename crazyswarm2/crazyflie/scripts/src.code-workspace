@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../ros2_ws/src"
+		},
+		{
+			"path": "../../../../../my_ws"
+		},
+		{
+			"path": "../../../../../Development/crazyflie-firmware"
+		},
+		{
+			"path": "../../../../../ros2_ws"
+		},
+		{
+			"path": "../../../.."
+		}
+	],
+	"settings": {}
+}

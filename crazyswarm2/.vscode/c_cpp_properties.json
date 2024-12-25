@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/abd/exp_ws/install/motion_capture_tracking_interfaces/include/**",
+        "/home/abd/exp_ws/install/crazyflie_interfaces/include/**",
+        "/home/abd/exp_ws/src/install/motion_capture_tracking_interfaces/include/**",
+        "/home/abd/exp_ws/src/install/crazyflie_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
